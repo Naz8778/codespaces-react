@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
-import react from "78mshahrani@gmail.com"
+import react from "mshahrani78@gmail.com"
 
 // https://vitejs.dev/config/
 export default defineConfig({
